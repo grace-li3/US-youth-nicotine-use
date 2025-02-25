@@ -12,22 +12,26 @@ The Institute for Social Research at the University of Michigan conducted a stud
 I analyzed the political party beliefs distribution of the dataset. The survey question asks: “How would you describe your political beliefs?” and the following answers are provided: 1="Very Conservative", 2="Conservative", 3="Moderate", 4="Liberal", 5="Very Liberal", 6="Radical", 8="None of the above, or don't know." I chose a pie chart to depict the data because the provided answers were categorical and I wanted to show the relative proportions of a whole. The pie chart illustrated that more than half of the students identify as moderate and apolitical. A significant portion of the respondents identify as moderate, suggesting a centrist political inclination, while the largest segment represents those who either do not affiliate with a particular belief or are unsure. This could indicate political disengagement or dissatisfaction with current political categorizations. Overall, the diversity in political beliefs shows a heterogeneous political landscape.
 
 *Average Letter Grade*
+
 <img width="466" alt="Screenshot 2025-02-25 at 12 35 19 AM" src="https://github.com/user-attachments/assets/d405e50a-b7b0-47b2-94aa-62ebe57ed4da" />
 
 I created a bar graph to show the distribution of average letter grades. The average letters grades are discrete and have a quantitative count (grade value out of 100) associated with each letter. The survey question asked: “Which one of the following best describes your average grades in this school year?” The answers ranged from 9 = A (93-100), 8= A- (90-92), 7= B+ (87-89), 6= B (83-86), 5 = B- (80-82), 4 = C+ (77-79), 3= C (73-76), 2= C- (70-72), 1= D (0-69). The graph reveals a trend of a skew towards higher academic performances, with most students falling within the ‘A’ to ‘B’ range and fewer students receiving grades of ‘C’ or below.
 
 *Nicotine Addiction Belief*
+
 <img width="350" alt="Screenshot 2025-02-25 at 12 35 34 AM" src="https://github.com/user-attachments/assets/997ee109-fcc1-4a4d-90a2-a1e1aeca2ea3" />
 
 This survey question asks: “In your opinion how addictive is vaping nicotine regularly?” The provided answers are 8="I don't know”, 1="Not at all addictive", 2="A little addictive", 3="Somewhat addictive", 4="Very addictive." Given this categorical data, a table is fitting to quickly understand the range of perceptions on nicotine addiction. The table shows that the majority of students (1324 students) perceive nicotine vaping as 'Very addictive', with this category having the highest count. The second highest category is “I don’t know” with 785 students which indicates general uncertainty that could warrant further educational initiatives to inform students about the health implications of vaping nicotine.
 
 ### Relationships Between Variables
 *How does students’ academic performance influence belief on nicotine/vaping addiction?*
+
 <img width="428" alt="Screenshot 2025-02-25 at 12 36 20 AM" src="https://github.com/user-attachments/assets/3c1ad439-ee55-4362-bc6c-0d1ef434bab8" />
 
 I used a stacked bar chart to provide a visual segmentation of opinion about nicotine addiction within each academic grade group. The graph suggests that students with higher grades (A to B range) are more likely to believe that nicotine is 'Very addictive', while this belief appears less prevalent among students with lower grades (C and below). It’s interesting to note that there is a large number of “I don’t know” responses across all grade levels. The chart suggests that students with high academic grades may be more informed about the risks of nicotine/vaping addiction. However, without analysis on other variables such as personal values or types of education exposures, we cannot conclusively determine whether there is a direct causation in this relationship.
 
 *Do students’ political party beliefs correlate to marijuana usage?*
+
 <img width="515" alt="Screenshot 2025-02-25 at 12 37 01 AM" src="https://github.com/user-attachments/assets/ca29397b-2683-4577-ab83-d9a3aa01b034" />
 
 The table presents the relationship between students' political beliefs and their marijuana usage. I categorized the responses to the marijuana use survey question (On how many occasions (if any) have you used marijuana (weed, pot) or hashish (hash, hash oil). . . (Do
